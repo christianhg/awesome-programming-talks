@@ -1,4 +1,4 @@
-# Awesome Programming Talk
+# Awesome Programming Talks
 
 > A collection of my favourite programming talks
 
